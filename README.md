@@ -7,8 +7,8 @@ Requirements:
 Python 3.x, Jupyter Notebook , Numpy, Pandas, Matplotlib, Seaborn
 
 Observations made:
-More than 50% of the passengers died.
-~50% of the passengers onboard Titanic are females.
+- More than 50% of the passengers died.
+- ~50% of the passengers onboard Titanic are females.
 There are relatively more passengers traveling in Class 3. Majority passengers embarked at port S.
 There were many passengers who traveled alone.
 The 'Fare' distribution clearly suggests more number of passengers traveling in Class 3. 
